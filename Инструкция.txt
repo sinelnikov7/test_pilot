@@ -1,0 +1,5 @@
+1. Создать виртуальное окружение и запустить его
+2. Установить зависимости pip install -r requirements.txt
+3. Сделать миграции python manage.py makemigrations
+4. Запустить миграции python manage.py migrate
+5. Запустить pytest
